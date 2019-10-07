@@ -1,11 +1,11 @@
 # Site settings
-author: Matthew C
-title: 
+author: Matthew Cullen
+title: clc
 header-img: img/home-bg.png
 email: m23.cullen@gmail.com
-copyright_name: Matthew C
+copyright_name: Matthew Cullen
 description: > # this means to ignore newlines until "baseurl:"
-  
+  crystal clear coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  3Mustard
