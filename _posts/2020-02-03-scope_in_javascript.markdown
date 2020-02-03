@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Scope in JavaScript"
-date:       2020-02-03 20:37:47 +0000
+date:       2020-02-03 15:37:47 -0500
 permalink:  scope_in_javascript
 ---
 
@@ -41,7 +41,7 @@ let and const declared in blocks(if,switch,for,while) support the declaration of
 vars do not.
 
 ```
-function scopey() {
+function myFunction() {
     var a = "first Value"
     let b = "first Value"
     const c = "first Value"
