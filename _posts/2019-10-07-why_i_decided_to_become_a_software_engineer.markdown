@@ -1,13 +1,10 @@
 ---
 layout: post
 title:      "Why I decided to become a software engineer "
-date:       2019-10-07 13:32:48 +0000
+date:       2019-10-07 09:32:49 -0400
 permalink:  why_i_decided_to_become_a_software_engineer
 ---
 
-
-I was sick of working entry level jobs about half way through my twenties but I still didn't know what I'd rather be doing to earn an income. My friend was learning to code and graduating from a four year school when he suggested I try coding with the various free resources online. I had no job at the time and all the free time to persue something more. I started learning python/html/css and javascript on codeacademy and after I had gotten through each course I worked with my friend do build my first web app. 
-
-The creative outlet I found in coding during these first couple months inspired me to start reading how people got into the field without going to college. I read several articles for and against bootcamps but ultimatly decided that attending one would be in my best interest. After a month of thinking about and researching various bootcamps I applied to Flatiron school. 
+I started learning to code as a hobby on freecodeacademy because I enjoy computers, building things, and being creative. A friend of mine in the field suggested that if I enjoyed coding that I could become a developer without going to a traditional college. I was 29 at the time and going back to college for 2+ years wasn't something I wanted to do. I spent a couple more months learning code to prove to myself it was something I could do and enjoy. During this time a couple friends I know who are software developers suggested I look into bootcamps. While I am hoping to find a job quickly I ultimatly decided to attend a full time bootcamp in order to immerse myself in coding and build a strong foundation for myself.
 
 
