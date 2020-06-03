@@ -11,11 +11,8 @@ I find setting up the api first to be the best approach as you get to fine tune 
 
 Before creating my react part of the project I took out a notebook and sketched out how I wanted things to look and flow from component to component. I think planning before you sit down to code is the best strategy as you can discover/ avoid future issues. 
 
-Running into problems in React as opposed to the last project with pure javascript involved thinking about my redux store and if my reducer was properly returning the correct data to my component. Aside from that my normal method of console logging my variables/props and inserting binding.pry into my backend proved more than efficient for fixing problems.
+Running into problems in React as opposed to the last project with pure javascript involved checking that my javascript was correct and that my understanding of how React and the other libraries I was using was correct. I found google, stackoverflow and console logging my variables/props proved more than efficient for fixing problems, moving forward and learning new things.
 
-My biggest struggle was understanding redux which takes state and passes it down to a component and it's children.
-I had trouble applying bootstrap styles as I did with my previous projects so my styling suffered and I hope to fix it soon.
-
-Moving foreward I’d like to improve my css skills more and try out another web framework like angular.
+My biggest struggle was understanding redux, a library that stores a global state which react components can connect to. After watching a couple tutorials on youtube and voiceing how I thought redux was supposed to work to an instructor I felt I had a good grasp of redux, thunk and handling async in react. 
 
 
