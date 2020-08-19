@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Create a 'typing...' animation in React"
-date:       2020-08-19 15:29:43 +0000
+date:       2020-08-19 11:29:44 -0400
 permalink:  create_a_typing_animation_in_react
 ---
 
@@ -20,7 +20,8 @@ class ChatBox extends React.Component {
     render() {
         <div><div>
     }
-}```
+}
+```
 
 
 Next lets make the typing animation component. Essentially this will be a div with 3 divs in it. Some css tricks will turn it into a rectangle with 3 dots in it though.
@@ -98,7 +99,8 @@ class ChatBox extends React.Component {
 		  return (
           <div> { isTyping ? <Typing /> : null } <div>
     )}
-}```
+}
+```
 
 And that's all there is to it! 
 
