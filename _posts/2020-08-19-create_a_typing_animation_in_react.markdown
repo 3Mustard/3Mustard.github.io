@@ -38,6 +38,7 @@ const Typing = () => (
 
 Now some css to style and animate our three divs.
 
+
 ```
 .typing {
   width: 5em;
@@ -85,7 +86,9 @@ Now some css to style and animate our three divs.
 }
 ```
 
+
 Last step is to add our animation in to our ChatBox when this.state.isTyping is true.
+
 
 ```
 class ChatBox extends React.Component {
@@ -101,6 +104,7 @@ class ChatBox extends React.Component {
     )}
 }
 ```
+
 
 And that's all there is to it! 
 
